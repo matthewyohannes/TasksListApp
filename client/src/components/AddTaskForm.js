@@ -25,7 +25,7 @@ export const AddTaskForm = ({fetchTasks}) => {
     <div>
       <Typography align="center" variant="h2" paddingTop={2} paddingBottom={2}>
         {" "}
-        My Task List{" "}
+        My Task List!{" "}
       </Typography>
       <div className="addTaskForm">
           <TextField
